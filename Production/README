@@ -1,5 +1,10 @@
-This folder contains the full dataset with the normalized data and the full statistical values.
+This folder contains the material, the full dataset with the normalized data, and the full statistical values in the production study.
 
+#dataset_result
 01_sentencelevel_analysis: This file contains the full dataset for the sentence-level analysis.
 02_phraselevel_analysis: This file contains the full dataset and the statistical values of the phrase-level analysis.
 03_individual_analysis: This file contains the full dataset and the statistical values of the individual pattern analysis.
+
+#material
+ProductionTest_PART1: This is the material used for collecting the neutral production data.
+ProductionTest_PART2: This is the material used for collecting the sarcastic and sincere production data.
