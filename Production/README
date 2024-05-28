@@ -1,1 +1,5 @@
-This folder contains the dataset used to conduct the sentence-level analysis, phrase-level analysis, and the individual pattern analysis.
+This folder contains the full dataset with the normalized data and the full statistical values.
+
+01_sentencelevel_analysis: This file contains the full dataset for the sentence-level analysis.
+02_phraselevel_analysis: This file contains the full dataset and the statistical values of the phrase-level analysis.
+03_individual_analysis: This file contains the full dataset and the statistical values of the individual pattern analysis.
