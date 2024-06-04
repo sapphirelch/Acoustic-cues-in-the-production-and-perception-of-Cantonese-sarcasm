@@ -2,6 +2,8 @@
 This repository contains the production and perception data collected in the project entitled "Acoustic cues in the production and perception of Cantonese sarcasm" (currently under review). 
 
 #01_sentencelevel_dataset: This file contains the full set of raw data for sentence-level analysis.
+
 #02_phraselevel_dataset: This file contains the full set of raw data for phrase-level analysis.
+
 #03_perception_rating: This file contains the rating scores in the perception study.
 
