@@ -7,3 +7,4 @@ This repository contains the production and perception data collected in the pro
 
 #03_perception_rating: This file contains the rating scores in the perception study.
 
+#04_production_sentences: This file contains all the target sentences and the scenarios with positive and negative situations used in the production study.
